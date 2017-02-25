@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
-@import url('https://fonts.googleapis.com/css?family=Arvo|Source+Sans+Pro');
+@import url(/assets/fonts/Arvo-Regular.ttf);
+@import url(/assets/fonts/SourceSansPro-Regular.ttf);
 
 /*
 	Hyperspace by HTML5 UP
@@ -3018,7 +3019,7 @@
 		-webkit-flex-direction: row;
 		-ms-flex-direction: row;
 		flex-direction: row;
-		min-height: 22.5em;
+		min-height: 15em;
 	}
 
 		body.is-ie .spotlights > section {
@@ -3069,7 +3070,7 @@
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			width: 50em;
+			width: 55em;
 			-ms-flex: 1;
 		}
 
